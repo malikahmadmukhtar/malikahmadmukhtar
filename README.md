@@ -15,7 +15,7 @@ I am dedicated to staying at the forefront of technology. Currently, I am delvin
 
 Explore some of my noteworthy projects and contributions:
 
-1. **[Pharmacy App With Flutter](Link)**
+1. **[Pharmacy App With Flutter](https://github.com/malikahmadmukhtar/Flutter-pharmacy-app-using-firebase-and-sqlite)**
    - *Description:* An online pharmacy app developed using Sqlite, firebase and flutter.
 2. **[E-Commerce Application in Flutter](Link)**
    - *Description:* A sleek Shopping app developed using firebase and flutter.
