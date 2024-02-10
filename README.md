@@ -4,8 +4,8 @@ Hello! I am Malik Ahmad Mukhtar, a student with a passion for tech. My expertise
 
 ## 🚀 Skills & Technologies
 
-- **Programming Languages:** Dart, Java, JavaScript
-- **Tools & Technologies:** Flutter, React Js, React Native
+- **Programming Languages:** Dart, Java
+- **Tools & Technologies:** Flutter
 
 ## 🌱 Continuous Learning
 
