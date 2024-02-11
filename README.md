@@ -26,7 +26,7 @@ Explore some of my noteworthy projects and contributions:
 
 Connect with me through the following channels:
 
-- **LinkedIn:** [Ahmad Malik](https://www.linkedin.com/in/ahmad-malik-4215962b4/)
+- **LinkedIn:** [Ahmad Malik](https://www.linkedin.com/in/malik-ahmad-mukhtar/)
 - **Instagram:** [ya_its_ahmad](instagram.com/ya_its_ahmad)
 - **Email:** [malikahmadmukhtar165@gmail.com](mailto:malikahmadmukhtar165@gmail.com)
 
