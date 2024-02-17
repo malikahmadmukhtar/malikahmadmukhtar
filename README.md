@@ -14,12 +14,16 @@ I am dedicated to staying at the forefront of technology. Currently, I am delvin
 
 Explore some of my noteworthy projects and contributions:
 
-1. **[Pharmacy App With Flutter](https://github.com/malikahmadmukhtar/Flutter-pharmacy-app-using-firebase-and-sqlite)**
-   - *Description:* An online pharmacy app developed using Sqlite, firebase and flutter.
-2. **[E-Commerce Application in Flutter](Link)**
+1. **[Online Store Application in Flutter](https://github.com/malikahmadmukhtar/Online-Store-App-using-flutter-Firebase)**
    - *Description:* A sleek Shopping app developed using firebase and flutter.
-3. **[Pharmacy Applicatoin in Java With Sqlite](Link)**
-   - *Description:* An online pharmacy app developed using Sqlite, firebase in Java and xml.
+
+3. **[Online Store Website Using Firebase in flutter](https://github.com/malikahmadmukhtar/Online-store-website-using-firebase-in-flutter)**
+   - *Description:* A versatile Store website made using flutter
+   - 
+2. **[Pharmacy Application With Flutter](https://github.com/malikahmadmukhtar/Flutter-pharmacy-app-using-firebase-and-sqlite)**
+   - *Description:* An online pharmacy app developed using Sqlite, firebase and flutter.
+   
+
 
 ## 📫 Contact Information
 
