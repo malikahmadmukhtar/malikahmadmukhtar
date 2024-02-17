@@ -19,7 +19,7 @@ Explore some of my noteworthy projects and contributions:
 
 3. **[Online Store Website Using Firebase in flutter](https://github.com/malikahmadmukhtar/Online-store-website-using-firebase-in-flutter)**
    - *Description:* A versatile Store website made using flutter
-   - 
+   
 2. **[Pharmacy Application With Flutter](https://github.com/malikahmadmukhtar/Flutter-pharmacy-app-using-firebase-and-sqlite)**
    - *Description:* An online pharmacy app developed using Sqlite, firebase and flutter.
    
