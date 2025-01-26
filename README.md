@@ -14,10 +14,10 @@ I am dedicated to staying at the forefront of technology. Currently, I am delvin
 
 Explore some of my noteworthy projects and contributions:
 
-1. **[Online Store Application in Flutter(Private)](https://github.com/malikahmadmukhtar/Online-Store-App-using-flutter-Firebase)**
+1. **[Online Store Application in Flutter](https://github.com/malikahmadmukhtar/Online-Store-App-using-flutter-Firebase)**
    - *Description:* A sleek Shopping app developed using firebase and flutter.
 
-3. **[Online Store Website Using Firebase in flutter(Private)](https://github.com/malikahmadmukhtar/Online-store-website-using-firebase-in-flutter)**
+3. **[Online Store Website Using Firebase in flutter](https://github.com/malikahmadmukhtar/Online-store-website-using-firebase-in-flutter)**
    - *Description:* A versatile Store website made using flutter
    
 2. **[Pharmacy Application With Flutter](https://github.com/malikahmadmukhtar/Flutter-pharmacy-app-using-firebase-and-sqlite)**
