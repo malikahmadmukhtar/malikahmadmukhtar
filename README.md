@@ -4,7 +4,7 @@ Hello! I am Malik Ahmad Mukhtar, a student with a passion for tech. My expertise
 
 ## 🚀 Tools & Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,kotlin,sqlite,firebase,androidstudio,vscode,github,sql,python,django,opencv,tensrflow&perline=4)](https://github.com/malikahmadmukhtar)
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,kotlin,sqlite,firebase,androidstudio,vscode,github,sql,python,django,opencv,tensorflow&perline=4)](https://github.com/malikahmadmukhtar)
 
 ## 🌱 Continuous Learning
 
