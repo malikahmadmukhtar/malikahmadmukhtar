@@ -1,14 +1,14 @@
 ## 🌟 About Me
 
-Hello! I am Malik Ahmad Mukhtar, a student with a passion for tech. My expertise lies in developement with Flutter and Kotlin, and I thrive on turning complex problems into elegant solutions.
+Hello! I am Malik Ahmad Mukhtar, a student with a passion for tech. My expertise lies in developement with Artificial Intelligence and Flutter. I thrive on turning complex problems into elegant solutions.
 
 ## 🚀 Tools & Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,kotlin,sqlite,firebase,androidstudio,vscode,github,sql,python,django&perline=4)](https://github.com/malikahmadmukhtar)
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,kotlin,sqlite,firebase,androidstudio,vscode,github,sql,python,django,opencv,tensrflow&perline=4)](https://github.com/malikahmadmukhtar)
 
 ## 🌱 Continuous Learning
 
-I am dedicated to staying at the forefront of technology. Currently, I am delving into Flutter Development, exploring new horizons and refining my craft.
+I am dedicated to staying at the forefront of technology. Currently, I am delving into the World of Artificial Intelligence as well as Flutter Development, exploring new horizons and refining my craft.
 
 ## 🔧 Projects & Achievements
 
