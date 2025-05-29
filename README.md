@@ -16,11 +16,14 @@ Explore some of my noteworthy projects and contributions:
 
 1. **[Online Store Application in Flutter](https://github.com/malikahmadmukhtar/Online-Store-App-using-flutter-Firebase)**
    - *Description:* A sleek Shopping app developed using firebase and flutter.
+     
+2. **[AI Facebook Campaign Assistant](https://github.com/malikahmadmukhtar/Structured_Prompt_Assistant_langchain_tools)**
+   - *Description:* A campaign assistant made using langchain and AI.
 
 3. **[Online Store Website Using Firebase in flutter](https://github.com/malikahmadmukhtar/Online-store-website-using-firebase-in-flutter)**
    - *Description:* A versatile Store website made using flutter
    
-2. **[Pharmacy Application With Flutter](https://github.com/malikahmadmukhtar/Flutter-pharmacy-app-using-firebase-and-sqlite)**
+4. **[Pharmacy Application With Flutter](https://github.com/malikahmadmukhtar/Flutter-pharmacy-app-using-firebase-and-sqlite)**
    - *Description:* An online pharmacy app developed using Sqlite, firebase and flutter.
    
 
