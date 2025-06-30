@@ -17,7 +17,7 @@ Explore some of my noteworthy projects and contributions:
 1. **[Online Store Application in Flutter](https://github.com/malikahmadmukhtar/Online-Store-App-using-flutter-Firebase)**
    - *Description:* A sleek Shopping app developed using firebase and flutter.
      
-2. **[AI Facebook Campaign Assistant](https://github.com/malikahmadmukhtar/Structured_Prompt_Assistant_langchain_tools)**
+2. **[AI Facebook Campaign Assistant](https://github.com/malikahmadmukhtar/Campaign-Assistant-FastApi)**
    - *Description:* A campaign assistant made using langchain and AI.
 
 3. **[Online Store Website Using Firebase in flutter](https://github.com/malikahmadmukhtar/Online-store-website-using-firebase-in-flutter)**
@@ -33,7 +33,7 @@ Explore some of my noteworthy projects and contributions:
 Connect with me through the following channels:
 
 - **LinkedIn:** [Ahmad Malik](https://www.linkedin.com/in/malik-ahmad-mukhtar/)
-- **Instagram:** [ya_its_ahmad](instagram.com/ya_its_ahmad)
+- **Instagram:** [Ahmad Malik](instagram.com/ya_its_ahmad)
 - **Email:** [malikahmadmukhtar165@gmail.com](mailto:malikahmadmukhtar165@gmail.com)
 
 ## 🌐 Portfolio Website
