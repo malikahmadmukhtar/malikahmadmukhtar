@@ -1,6 +1,6 @@
 ## 🌟 About Me
 
-Hello! I am Malik Ahmad Mukhtar, a student with a passion for tech. My expertise lies in developement with Artificial Intelligence and Flutter. I thrive on turning complex problems into elegant solutions.
+Hello! I am Malik Ahmad Mukhtar, a person with a passion for tech. My expertise lies in developement with Artificial Intelligence and Flutter. I thrive on turning complex problems into elegant solutions.
 
 ## 🚀 Tools & Technologies
 
